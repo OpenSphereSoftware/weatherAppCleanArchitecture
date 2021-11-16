@@ -1,0 +1,92 @@
+{
+    "cod": "200",
+    "message": 0,
+    "cnt": 40,
+    "list": [
+        {
+            "dt": 1636966800,
+            "main": {
+                "temp": 276.72,
+                "feels_like": 274.83,
+                "temp_min": 276.72,
+                "temp_max": 277.2,
+                "pressure": 1022,
+                "sea_level": 1022,
+                "grnd_level": 958,
+                "humidity": 95,
+                "temp_kf": -0.48
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04d"
+                }
+            ],
+            "clouds": {
+                "all": 55
+            },
+            "wind": {
+                "speed": 2.02,
+                "deg": 74,
+                "gust": 3.02
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2021-11-15 09:00:00"
+        },
+        {
+            "dt": 1636977600,
+            "main": {
+                "temp": 278.19,
+                "feels_like": 276.22,
+                "temp_min": 278.19,
+                "temp_max": 281.13,
+                "pressure": 1021,
+                "sea_level": 1021,
+                "grnd_level": 958,
+                "humidity": 87,
+                "temp_kf": -2.94
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03d"
+                }
+            ],
+            "clouds": {
+                "all": 50
+            },
+            "wind": {
+                "speed": 2.36,
+                "deg": 66,
+                "gust": 3.26
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2021-11-15 12:00:00"
+        }
+    ],
+    "city": {
+        "id": 2867714,
+        "name": "Munich",
+        "coord": {
+            "lat": 48.1374,
+            "lon": 11.5755
+        },
+        "country": "DE",
+        "population": 1260391,
+        "timezone": 3600,
+        "sunrise": 1636957237,
+        "sunset": 1636990573
+    }
+}

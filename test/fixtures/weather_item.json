@@ -1,0 +1,36 @@
+{
+    "dt": 1636966800,
+    "main": {
+        "temp": 276.72,
+        "feels_like": 274.83,
+        "temp_min": 276.72,
+        "temp_max": 277.2,
+        "pressure": 1022,
+        "sea_level": 1022,
+        "grnd_level": 958,
+        "humidity": 95,
+        "temp_kf": -0.48
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+    ],
+    "clouds": {
+        "all": 55
+    },
+    "wind": {
+        "speed": 2.02,
+        "deg": 74,
+        "gust": 3.02
+    },
+    "visibility": 10000,
+    "pop": 0,
+    "sys": {
+        "pod": "d"
+    },
+    "dt_txt": "2021-11-15 09:00:00"
+}
