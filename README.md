@@ -8,11 +8,6 @@
 # Table of Contents
 1. [Supported devices](#supported-devices)  
 2. [Prerequisites](#prerequisites)
-[//]:3. [Installation](#installation)
-[//]:4. [Usage](#usage)
-[//]:   * [First function](#first-function)
-[//]:   * [Second function](#second-function)
-[//]: 5. [License](#license)
 3. [Architecture Model](#architecture-model)  
 4. [Folder Structure](#folder-structure)  
 4. [General Info](#general-info)  
@@ -23,11 +18,6 @@
 
 ## Prerequisites
 * Flutter Version > 2.5.0
-
-[//]: ## Installation  
-[//]: ## Usage  
-[//]: #### First Function
-[//]: #### Second Function
 
 ## Architecture Model:
 The Architecture follows a Clean Architecture model. Each layer is seperated from each other and replacable. With this project Architecture the goal was to create a scalable application whis is also easy to test. 
