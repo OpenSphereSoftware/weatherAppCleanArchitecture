@@ -31,7 +31,8 @@
 
 ## Architecture Model:
 The Architecture follows a Clean Architecture model. Each layer is seperated from each other and replacable. With this project Architecture the goal was to create a scalable application whis is also easy to test. 
-Also this architecture allows us an easy way to deal with exceptions and Failures. Every Exception will turn into an self defined Failure with which we can deel in the presentation layer (or not). 
+Also this architecture allows us an easy way to deal with exceptions and Failures. Every Exception will turn into an self defined Failure with which we can deel in the presentation layer (or not). To give the opportunity to return either a failure or the data (fucntional programming pattern) i used the package dartz to create some more functional code. 
+I worked with dependency injection and wrote interfaces for each layer to allow easy testing. For DI i used the package GetIT. For testing i used mockito. 
 ![image info](images/Architecture.png)
 
 ## Folder Structure:
